@@ -1,0 +1,64 @@
+Centrica 
+Software Engineer (React Native)
+
+We’re so much more than an energy company. We’re a family of brands revolutionising how we power the planet. We're energisers. One team of 21,000 colleagues that's energising a greener, fairer future by creating an energy system that doesn’t rely on fossil fuels, whilst living our powerful commitment to igniting positive change in our communities. Here, you can find more purpose, more passion, and more potential. That’s why working here is #MoreThanACareer. We do energy differently - we do it all. We make it, store it, move it, sell it, and mend it.
+
+Centrica, Technology is a core driver of how we deliver our strategy. You’ll join a team modernising our platforms, strengthening cyber and operational resilience, and advancing a product‑led way of working that brings engineers, data specialists and business experts together to deliver meaningful outcomes at pace.
+
+We’re scaling automation and AI from proof‑of‑concept into real, end‑to‑end change - improving customer journeys, reducing cost‑to‑serve, accelerating delivery, and building the digital foundations that underpin everything from energy trading and risk to field operations and critical infrastructure.
+
+If you want to work on complex, high‑impact problems using modern engineering practices, and help build reusable platforms that will shape how Centrica operates over the next decade, this is the place to do it.
+
+An opportunity to play your part
+
+Centrica, Technology is a core driver of how we deliver our strategy. You’ll join a team modernising our platforms, strengthening cyber and operational resilience, and advancing a product-led way of working that brings engineers, data specialists and business experts together to deliver meaningful outcomes at pace.
+
+We’re scaling automation and AI from proof-of-concept into real, end-to-end change - improving customer journeys, reducing cost-to-serve, accelerating delivery, and building the digital foundations that underpin everything from energy trading and risk to field operations and critical infrastructure. If you want to work on complex, high-impact problems using modern engineering practices, and help build reusable platforms that will shape how Centrica operates over the next decade, this is the place to do it.
+
+Working at the forefront of energy innovation, building scalable cloud-native solutions that power our digital transformation and helping millions of customers manage their energy more effectively.
+
+
+Day to day:
+
+Champion solid engineering fundamentals including effective use of source control, CI/CD pipelines, and modern engineering practices
+Utilise Azure DevOps and GitHub for work management, repositories, pipelines, and artifacts
+Implement comprehensive observability solutions using Datadog for monitoring and performance optimisation
+Ensure security and code quality through automated scanning and testing processes
+Leverage Launch Darkly for feature flag management and controlled rollouts
+
+Problem Solving & Decision Making:
+
+Design and develop full-stack applications using Node.js, TypeScript, and React, ensuring high-quality, maintainable code
+Build and maintain cloud-native solutions across a comprehensive range of AWS services including Lambda, API Gateway, S3, SQS, SNS, EventBridge, Step Functions, and AWS Lex
+Implement Infrastructure as Code using Terraform to ensure consistent, scalable deployments
+Develop mobile applications using React Native with Expo for software management (where applicable)
+What We Need From You:
+
+Strong proficiency in full-stack development with Node.js, TypeScript, and React
+Extensive hands-on experience with AWS services including Lambda, API Gateway, IAM, S3, SQS, SNS, EventBridge, and Step Functions
+Solid experience with Infrastructure as Code using Terraform
+Proficiency with Azure DevOps and GitHub for development workflows
+Experience with observability tools, particularly Datadog
+Knowledge of security scanning and code quality tools
+Familiarity with feature flag management tools like Launch Darkly
+Core Competencies & Technical Skills (AI and emerging technology):
+
+Designs, integrates and operates AI-enabled solutions within enterprise environments, including prompt-driven workflows, retrieval-augmented systems and AI agents
+Applies structured evaluation, testing and monitoring practices to ensure AI outputs are reliable, secure and compliant with organisational guardrails
+Prepares and manages data used in AI workflows and takes responsibility for the responsible lifecycle of AI features from experimentation through deployment and continuous improvement
+Key Stakeholders:
+
+Software Engineering Managers, Principal Software Engineers, Product teams, Security teams, Infrastructure teams
+
+Why should you apply?
+
+We’re not a perfect place – but we’re a people place. Our priority is supporting all of the different realities our people face. Life is about so much more than work. We get it. That’s why we’ve designed our total rewards to give you the flexibility to choose what you need, when you need it, making sure that you and your family are supported not only financially, but physically and emotionally too. Visit the link below to discover why we’re a great place to work and what being part of more means for you.
+
+https://www.morethanacareer.energy/centrica
+
+If you're full of energy, fired up about sustainability, and ready to craft not only a better tomorrow, but a better you, then come and find your purpose in a team where your voice matters, your growth is non-negotiable, and your ambitions are our priority.
+
+
+Help us, help you. We would love for you to share any information about yourself throughout our recruitment process so that we can better understand you and help shape your journey.
+
+https://www.lifeatcentrica.com/jobs/r0083334/software-engineer-react-native/

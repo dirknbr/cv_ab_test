@@ -1,0 +1,112 @@
+Lead Software Engineer & Cloud Architect
+Email: xxx@email.com | Phone: +44 7700 900456 | Location: London, UK
+LinkedIn: linkedin.com/in/xxx | GitHub: github.com/xxx
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+Versatile and technical Lead Software Engineer with 12 years of experience designing,
+building, and maintaining scalable web and enterprise cloud applications. Solid back-end
+foundation in Node.js, TypeScript, and Java, supported by strong expertise across AWS
+serverless services, Terraform IaC, and modern CI/CD automation. Hands-on experience with
+React on the front end, alongside foundational mobile experience using React Native.
+Proven track record of modernizing enterprise systems, implementing robust observability
+with Datadog, and integrating AI-driven automation workflows into legacy environments.
+Seeking to bring deep engineering discipline and architectural leadership to Centrica.
+
+================================================================================
+CORE TECHNICAL SKILLS
+================================================================================
+• Back-End & Cloud:        Node.js, TypeScript, Java/Spring Boot, AWS (Lambda, API Gateway, 
+                           S3, SQS, SNS, EventBridge, Step Functions, IAM)
+• Front-End & Mobile:      React, TypeScript, JavaScript (ES6+), React Native (Mobile),
+                           HTML5/CSS3, Webpack, Redux
+• Infrastructure & DevOps: Terraform, CloudFormation, Docker, Kubernetes, Azure DevOps,
+                           GitHub Actions, CI/CD Pipeline Automation
+• Observability & Quality: Datadog, SonarQube, Snyk, Jest, Cypress, LaunchDarkly
+• AI & Emerging Tech:      AI Workflow Integration, Prompt Engineering, RAG Architectures,
+                           Automated Model Monitoring
+• Architecture & Practices: Microservices, RESTful APIs, Event-Driven Architecture, 
+                           Product-Led Agile, Security & Governance
+
+================================================================================
+PROFESSIONAL EXPERIENCE
+================================================================================
+
+Lead Cloud & Full-Stack Engineer | Enterprise Cloud Dynamics
+London, UK | Mar 2021 – Present
+
+Role Overview: Lead a high-performing team of 8 engineers delivering enterprise backend 
+platforms and web portals for utility and fintech clients.
+
+Key Responsibilities & Achievements:
+• Enterprise Cloud Architecture: Architected event-driven microservices on AWS using
+  Node.js, TypeScript, AWS Lambda, EventBridge, SQS, and Step Functions, handling 5M+
+  daily messages with 99.99% uptime.
+• Infrastructure as Code: Standardized IaC practices across all products using Terraform,
+  reducing environment setup times from days to under 30 minutes.
+• Observability & Quality: Integrated Datadog APM and log management across all serverless
+  workloads. Implemented automated security scanning (SonarQube/Snyk) within Azure DevOps
+  and GitHub CI/CD pipelines.
+• Feature Management & AI: Introduced LaunchDarkly for controlled feature rollouts. Led
+  a proof-of-concept integrating LLM/RAG workflows into back-office operational tools,
+  automating document parsing and data extraction.
+• Front-End & Mobile Support: Built internal web dashboards using React and supported
+  the maintenance of a legacy React Native customer portal.
+
+--------------------------------------------------------------------------------
+
+Senior Software Engineer | FinTech Systems Europe
+London, UK | Jan 2017 – Feb 2021
+
+Role Overview: Developed microservices and cloud backends for enterprise financial and
+billing applications.
+
+Key Responsibilities & Achievements:
+• Designed and maintained AWS serverless architectures utilizing API Gateway, Lambda,
+  S3, SNS, and DynamoDB.
+• Developed core web UI components using React and TypeScript, adhering to modern accessibility
+  and performance standards.
+• Participated in mobile cross-skilling initiatives, contributing to React Native feature
+  enhancements for customer account management apps.
+• Collaborated closely with product managers, security analysts, and platform teams in
+  a product-led delivery model.
+
+--------------------------------------------------------------------------------
+
+Software Engineer | Apex Digital Solutions
+Bristol, UK | Sep 2014 – Dec 2016
+
+Role Overview: Mid-level full-stack developer focusing on web applications and API development.
+
+Key Responsibilities & Achievements:
+• Developed REST APIs using Node.js and Java (Spring Boot) backed by PostgreSQL databases.
+• Built web frontends using React and modern JavaScript.
+• Automated deployment pipelines using GitHub Actions and Jenkins.
+
+--------------------------------------------------------------------------------
+
+Junior Software Developer | DataTech Innovations
+Bristol, UK | Jun 2012 – Aug 2014
+
+Role Overview: Java and database developer working on internal data management tooling.
+
+Key Responsibilities & Achievements:
+• Maintained relational database schemas and Java backend services.
+• Wrote automated unit and integration tests to ensure code quality.
+
+================================================================================
+EDUCATION & CERTIFICATIONS
+================================================================================
+• B.Sc. (Hons) in Software Engineering (2:1) | University of Exeter (2009 – 2012)
+• AWS Certified Solutions Architect – Associate
+• HashiCorp Certified: Terraform Associate
+
+================================================================================
+ALIGNMENT WITH CENTRICA
+================================================================================
+• Brings 12 years of enterprise engineering experience with strong backend, cloud, 
+  and DevOps fundamentals.
+• Fully proficient in Centrica's target tech stack (AWS, Node.js, TypeScript, React, 
+  Terraform, Azure DevOps, Datadog, LaunchDarkly).
+• Strong potential to bridge backend cloud architecture with React Native mobile needs.

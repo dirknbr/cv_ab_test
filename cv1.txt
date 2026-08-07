@@ -1,0 +1,109 @@
+Senior Lead Software Engineer (React Native & Full-Stack)
+Email: xxx@email.com | Phone: +44 7700 900123 | Location: London, UK
+LinkedIn: linkedin.com/in/xxx | GitHub: github.com/xxx
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+Accomplished Senior Software Engineer with over 10 years of experience designing,
+building, and scaling high-impact mobile and cloud-native digital platforms. Proven
+track record in React Native (Expo) and full-stack development (TypeScript, Node.js,
+React), backed by extensive enterprise expertise in AWS serverless architectures,
+Terraform IaC, and modern CI/CD practice. Deeply experienced in integrating AI-enabled
+solutions (prompt-driven workflows, RAG, AI agents) into field operations and customer-
+facing products. Passionate about driving sustainability, operational resilience, and
+digital transformation within high-scale enterprise environments like Centrica.
+
+================================================================================
+CORE TECHNICAL SKILLS
+================================================================================
+• Mobile & Front-End:      React Native (Expo), React, TypeScript, JavaScript (ES6+)
+• Back-End & Cloud:        Node.js, AWS (Lambda, API Gateway, S3, SQS, SNS, 
+                           EventBridge, Step Functions, AWS Lex, IAM)
+• Infrastructure as Code:  Terraform, AWS CloudFormation
+• DevOps, Security & CI/CD: Azure DevOps, GitHub Actions, Docker, Automated Security
+                           Scanning (Snyk/SonarQube), Code Quality Guardrails
+• Observability & Flags:   Datadog (APM, Log Management, Dashboards), LaunchDarkly
+• AI & Emerging Tech:      AI Agent Integration, RAG (Retrieval-Augmented Generation),
+                           Prompt Engineering, LLM Evaluation & Guardrails
+• Agile & Methodologies:    Product-Led Delivery, TDD/BDD, Microservices, Event-Driven
+                           Architecture, Cross-Functional Leadership
+
+================================================================================
+PROFESSIONAL EXPERIENCE
+================================================================================
+
+Lead Mobile & Full-Stack Engineer | GreenTech Solutions UK
+London, UK | Jan 2021 – Present
+
+Role Overview: Lead engineering initiatives for a fast-growing green energy technology
+firm, architecting high-availability mobile apps and cloud-native backends serving over
+1.5 million active users.
+
+Key Responsibilities & Achievements:
+• Cross-Platform Mobile Leadership: Spearheaded the development and deployment of a 
+  flagship React Native (Expo) mobile app enabling real-time smart meter monitoring, 
+  reducing customer support ticket volume by 28%.
+• Serverless AWS Architecture: Designed and maintained robust, event-driven backends 
+  utilizing Node.js, TypeScript, AWS Lambda, API Gateway, EventBridge, SQS, SNS, and 
+  Step Functions to process millions of energy telemetry events daily.
+• Infrastructure as Code (IaC): Automated 100% of cloud infrastructure provisioning 
+  across Staging and Production environments using Terraform modules, accelerating 
+  deployment velocity by 40%.
+• Observability & Feature Management: Implemented comprehensive Datadog monitoring and 
+  distributed tracing for zero-downtime releases. Managed multi-stage feature rollouts 
+  and A/B testing utilizing LaunchDarkly.
+• Modern CI/CD & Security: Configured Azure DevOps and GitHub workflow pipelines with 
+  integrated SAST/DAST automated security scanning and linting guardrails.
+• AI Integration: Architected and deployed an AI-enabled assistant using AWS Lex and 
+  retrieval-augmented workflows (RAG) to automate customer FAQs, reducing cost-to-serve 
+  by 22% while ensuring strict data compliance.
+
+--------------------------------------------------------------------------------
+
+Senior Software Engineer | GridDigital Systems
+London, UK | Mar 2017 – Dec 2020
+
+Role Overview: Developed enterprise energy trading and asset management software 
+solutions, collaborating closely with cross-functional engineering, security, and product teams.
+
+Key Responsibilities & Achievements:
+• Mobile & Web Development: Built responsive web applications using React and 
+  TypeScript, and developed cross-platform mobile modules using React Native.
+• AWS Cloud Migration: Transitioned legacy monolithic services into cloud-native AWS 
+  microservices utilizing Lambda, API Gateway, S3, and DynamoDB.
+• Event-Driven Workflows: Implemented EventBridge and Step Functions to coordinate 
+  complex distributed transactions for smart grid field operations.
+• Quality & Mentorship: Championed solid engineering fundamentals, peer code reviews, 
+  and automated unit/integration testing (Jest, React Testing Library, Cypress). 
+  Mentored 5 junior/mid-level engineers.
+
+--------------------------------------------------------------------------------
+
+Software Engineer | NextGen Apps Ltd
+Reading, UK | Jun 2014 – Feb 2017
+
+Role Overview: Full-stack engineer delivering high-performance customer-facing web 
+and mobile applications in an Agile team.
+
+Key Responsibilities & Achievements:
+• Developed full-stack features using Node.js, Express, React, and MongoDB/PostgreSQL.
+• Built CI/CD build pipelines in GitHub and Azure DevOps for continuous automated delivery.
+• Assisted in early mobile development initiatives leveraging React Native.
+
+================================================================================
+EDUCATION & CERTIFICATIONS
+================================================================================
+• B.Sc. (Hons) in Computer Science (1st Class) | University of Bristol (2011 – 2014)
+• AWS Certified Solutions Architect – Associate
+• AWS Certified Developer – Associate
+• HashiCorp Certified: Terraform Associate
+
+================================================================================
+KEY HIGHLIGHTS & FIT FOR CENTRICA
+================================================================================
+• Aligned with Centrica's mission to energize a greener, fairer future without 
+  fossil fuel reliance.
+• Seasoned in product-led environments, collaborating across engineering, security, 
+  and business stakeholders.
+• Highly passionate about scaling AI from proof-of-concept into real, secure enterprise operations.
